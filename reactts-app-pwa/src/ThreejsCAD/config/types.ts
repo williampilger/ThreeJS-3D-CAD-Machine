@@ -23,7 +23,7 @@ export type ThreejsCAD_FullPositionType = {
 }
 
 export type ThreejsCAD_EntityType = {
-    type: 'line' | 'circle',
+    type: 'box',
     coord: ThreejsCAD_CoordinateType[],
     layer: number //layer ID
 }

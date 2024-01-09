@@ -14,8 +14,9 @@ Bibliotecas instaladas:
 
 ```sh
 cd reactts-app-pwa
-npm install --save-dev @reduxjs/toolkit sass
-npm install styled-components @types/styled-components
+npm install --save three
+npm install --save-dev @reduxjs/toolkit sass @types/three
+npm install --save-dev styled-components @types/styled-components
 ```
 
 Para resolver problemas com a instalação, pode-se:

@@ -27,7 +27,7 @@ function App() {
         ],
         entities: [
             {
-                type: 'line',
+                type: 'box',
                 coord: [
                     { x: 10, y: 10, z: 10 },
                     { x: 20, y: 20, z: 20 }
